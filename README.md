@@ -1,6 +1,6 @@
 # SimpleConnect - Detailed Process Monitor
 
-SimpleConnect is a lightweight batch script designed to monitor and display detailed information about processes running on a Windows system. With an intuitive menu interface, users can filter processes by name or ID, view all active processes, and quickly access essential process details, such as memory usage, CPU consumption, and handle counts.
+SimpleConnect is a lightweight batch script designed to monitor and display detailed information about processes running on a Windows system.
 ## Features
 
 - Filter by Process Name: Enter a specific process name to view its details.
